@@ -1,8 +1,8 @@
-# Trello
+# Mi pagina
 
-* **Sprint:** _Número 02 =D_
+* **Sprint:** _Número 03_
 
-* **Unidad:** _Creando Interacción con JavaScript_
+* **Unidad:** _Crea tu propia red social_
 
 
 ***
@@ -10,7 +10,7 @@
 
 ## Objetivo
 
-El reto consistió en recrear el sitio de **Trello**:
+El reto consistió en crear un sitio Web Responsive.
 
 ## Consideraciones
 
@@ -22,19 +22,5 @@ stylesheet (CSS).
 ubicados los estilos contemplados dentro del proyecto.
 
 * Las imágenes empleadas se encuentran dentro de la carpeta `img`.
-
-* Los iconos empleados se encuentran dentro de las carpetas `icomoon`y
-las fuentes dentro de`font-awesome-4.7.0`.
-
-## A tener en cuenta
-
-El diseño o maquetado de la página web se encuentra distribuido de la siguiente
-manera:
-
-* Un header que se encuentra en la parte superior
-de la página.
-
-* Un Section que contiene toda la estructura de los comentarios.
-
 
 
